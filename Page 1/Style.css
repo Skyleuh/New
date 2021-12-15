@@ -1,0 +1,40 @@
+
+:root {
+    --pdfViewer-padding-bottom: none;
+    --page-margin: 1px auto -8px;
+    --page-border: 9px solid transparent;
+    --spreadHorizontalWrapped-margin-LR: -3.5px;
+}
+:root {
+    --unfocused-field-background: url("data:image/svg+xml;charset=UTF-8,<svg width='1px' height='1px' xmlns='http://www.w3.org/2000/svg'><rect width='100%' height='100%' style='fill:rgba(0, 54, 255, 0.13);'/></svg>");
+}
+html {
+    height: 100%;
+    width: 100%;
+    font-size: 10px;
+}
+* {
+    padding: 0;
+    margin: 0;}
+div {
+    background-color: white; 
+    color: black;
+}
+#cp {
+    margin: 0 auto
+}
+#fond {
+    background-color: #6DA881;
+    color : black    
+
+}
+#titre {
+    background-color : #6DA881;
+    color : black
+}
+.centre {
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+  }
+  
